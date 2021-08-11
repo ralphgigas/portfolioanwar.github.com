@@ -3,7 +3,9 @@
 -"JAVA SCRIPT"
 * ES6
 *Framework Javasript
--Struktur data dasar
+*angular
+React
 -PHP FRAME WORK
+^lareavel
 -INTERVIRE
 -VLOG
