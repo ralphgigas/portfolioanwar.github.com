@@ -3,6 +3,7 @@
 -"JAVA SCRIPT"
 * ES6
 *Framework Javasript
+-Struktur data dasar
 -PHP FRAME WORK
 -INTERVIRE
 -VLOG
