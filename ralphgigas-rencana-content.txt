@@ -3,7 +3,10 @@
 -"JAVA SCRIPT"
 * ES6
 *Framework Javasript
+ ^Vue
 -Struktur data dasar
 -PHP FRAME WORK
 -INTERVIRE
+ ^Laravel
 -VLOG
+-Pyton
