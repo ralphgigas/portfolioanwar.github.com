@@ -7,6 +7,7 @@
  ^react
 -Struktur data dasar
 -PHP FRAME WORK
+^lareavel
 -INTERVIRE
  ^Laravel
 -VLOG
