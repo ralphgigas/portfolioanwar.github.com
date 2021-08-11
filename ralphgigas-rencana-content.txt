@@ -4,6 +4,7 @@
 * ES6
 *Framework Javasript
  ^Vue
+ ^react
 -Struktur data dasar
 -PHP FRAME WORK
 -INTERVIRE
